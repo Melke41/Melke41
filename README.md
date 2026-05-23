@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a second-year Computer Science student at AAU building toward a career in **quantitative finance and data science**. I combine academic foundations in statistics and programming with 1.5 years of live trading experience — giving me both the theoretical rigor and market intuition that quant roles demand.
+I'm a second-year Computer Science student at AAU building toward a career in **quantitative finance and data science**. I combine academic foundations in statistics and programming with 2 years of live trading experience — giving me both the theoretical rigor and market intuition that quant roles demand.
 
 Currently focused on:
 - 📊 Sharpening skills in Pandas, NumPy, advanced SQL, and data visualization
